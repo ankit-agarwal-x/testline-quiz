@@ -68,6 +68,7 @@ The application fetches quiz data from the following API endpoint:
 - Add sound effects for correct/incorrect answers
 
 ## Project demo
-  [!VQuizMaster](https://vimeo.com/1052590103/890f5b876c))
+  [![Watch the video](https://img.vimeo.com/your_thumbnail.jpg)](https://vimeo.com/1052590103/890f5b876c)
+
 
 

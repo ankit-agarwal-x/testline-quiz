@@ -23,7 +23,7 @@ QuizMaster is an engaging web-based quiz application with gamification features.
 
 1. Clone the repository:
    \`\`\`
-   git clone [https://github.com/your-username/quizmaster.git](https://github.com/ankit-agarwal-x/testline-quiz.git)
+   git clone [https://github.com/ankit-agarwal-x/testline-quiz.git]
    cd quizmaster
    \`\`\`
 

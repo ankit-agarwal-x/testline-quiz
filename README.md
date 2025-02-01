@@ -67,7 +67,7 @@ The application fetches quiz data from the following API endpoint:
 - Include a timer for each question
 - Add sound effects for correct/incorrect answers
 
-## Project demo
+## Project demo (Click on the HomePage)
  [![Watch the video](lib/home.png)](https://vimeo.com/1052590103/890f5b876c)
 
 ### Additional Images
